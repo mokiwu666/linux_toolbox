@@ -10,4 +10,4 @@ Linux工具箱
 
 运行命令：
 
-wget https://raw.githubusercontent.com/zhucaidan/swap.sh/main/swap.sh && bash swap.sh
+wget https://github.com/mokiwu666/linux_toolbox/releases/download/latest/linux_toolbox_0.0.1.sh && bash swap.sh
