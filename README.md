@@ -10,4 +10,6 @@ Linux工具箱
 
 运行命令：
 
-wget https://github.com/mokiwu666/linux_toolbox/releases/download/latest/linux_toolbox.sh && bash linux_toolbox.sh
+https://raw.githubusercontent.com/mokiwu666/linux_toolbox/main/linux_toolbox.sh
+
+wget https://raw.githubusercontent.com/mokiwu666/linux_toolbox/main/linux_toolbox.sh && bash linux_toolbox.sh
