@@ -9,7 +9,4 @@ Linux工具箱
 6. 安装 Docker Compose
 
 运行命令：
-
-https://raw.githubusercontent.com/mokiwu666/linux_toolbox/main/linux_toolbox.sh
-
 wget https://raw.githubusercontent.com/mokiwu666/linux_toolbox/main/linux_toolbox.sh && bash linux_toolbox.sh
